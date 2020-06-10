@@ -1,6 +1,6 @@
 # Simple Web App VueJS
 
-Simple VueJS web app the display foods get from dummp api online.
+Simple VueJS web app the display foods get from dummy api online.
 
 ## Installation
 
