@@ -4,8 +4,6 @@ Simple VueJS web app the display foods get from dummy api online.
 
 ## Installation
 
-Open any terminal
-
 ```bash
 
 Step 1: Open terminal
